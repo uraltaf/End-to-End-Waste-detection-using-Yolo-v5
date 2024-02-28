@@ -1,0 +1,6 @@
+dill
+from-root==1.0.2
+gdown
+flask-cors
+flask
+-e . 
