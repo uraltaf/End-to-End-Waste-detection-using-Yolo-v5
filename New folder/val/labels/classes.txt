@@ -1,0 +1,4 @@
+paper
+glass
+cup
+lighter
